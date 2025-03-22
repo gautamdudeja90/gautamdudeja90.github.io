@@ -1,0 +1,62 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[2513,["185","static/chunks/app/layout-0388a297142c5670.js"],"ThemeProvider"]
+4:["slug","data-lake-design","d"]
+0:["BzGi_R3ZXTd5hd3uuA0Yy",[[["",{"children":["blog",{"children":[["slug","data-lake-design","d"],{"children":["__PAGE__?{\"slug\":\"data-lake-design\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","data-lake-design","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/react-gh-pages/_next/static/css/e3568eb9bcdc0f41.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/react-gh-pages/_next/static/css/4ff797d13c7e9747.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_be5c37 __variable_74505c __variable_6903c6 font-sans antialiased","children":["$","$L6",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"children":["$","div",null,{"className":"flex min-h-screen flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]}]],null],null],["$L7",null]]]]
+8:I[7352,["909","static/chunks/909-effe59aa52d8c6f0.js","58","static/chunks/58-89fed4254f53d5ba.js","308","static/chunks/app/blog/%5Bslug%5D/page-67735767136a99a8.js"],"Header"]
+9:"$Sreact.suspense"
+a:I[1523,["909","static/chunks/909-effe59aa52d8c6f0.js","58","static/chunks/58-89fed4254f53d5ba.js","308","static/chunks/app/blog/%5Bslug%5D/page-67735767136a99a8.js"],"BailoutToCSR"]
+c:I[1586,["909","static/chunks/909-effe59aa52d8c6f0.js","58","static/chunks/58-89fed4254f53d5ba.js","308","static/chunks/app/blog/%5Bslug%5D/page-67735767136a99a8.js"],"Footer"]
+2:[["$","$L8",null,{}],["$","main",null,{"className":"pt-28 pb-20","children":["$","div",null,{"className":"container-wide","children":["$","article",null,{"className":"prose dark:prose-invert max-w-3xl mx-auto px-4","children":[["$","div",null,{"className":"mb-10","children":[["$","h1",null,{"className":"font-serif text-4xl font-normal mb-4","children":"Getting Started with React Hooks"}],["$","div",null,{"className":"flex flex-wrap items-center text-sm text-muted-foreground mb-6 gap-2","children":[["$","span",null,{"children":"2025-02-15"}],["$","span",null,{"className":"hidden sm:inline mx-2","children":"•"}],["$","span",null,{"children":"~5 min read"}],["$","span",null,{"className":"hidden sm:inline mx-2","children":"•"}],["$","span",null,{"children":["By ","Jamie Smith"]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","React",{"className":"px-2 py-1 text-xs rounded-full bg-primary/10 text-primary","children":"React"}],["$","span","JavaScript",{"className":"px-2 py-1 text-xs rounded-full bg-primary/10 text-primary","children":"JavaScript"}],["$","span","Frontend",{"className":"px-2 py-1 text-xs rounded-full bg-primary/10 text-primary","children":"Frontend"}]]}]]}],["$","div",null,{"className":"mdx-content","children":["$","$9",null,{"fallback":null,"children":["$","$La",null,{"reason":"next/dynamic","children":"$Lb"}]}]}]]}]}]}],["$","$Lc",null,{}]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Professional Portfolio"}],["$","meta","3",{"name":"description","content":"A high-end portfolio for a Software/Data/ML/AI Engineer"}],["$","meta","4",{"name":"keywords","content":"software engineer,developer,portfolio,data science,AI,machine learning"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
+d:I[1715,["909","static/chunks/909-effe59aa52d8c6f0.js","58","static/chunks/58-89fed4254f53d5ba.js","308","static/chunks/app/blog/%5Bslug%5D/page-67735767136a99a8.js"],"default"]
+e:T954,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h1: "h1",
+    p: "p",
+    h2: "h2",
+    pre: "pre",
+    code: "code"
+  }, _provideComponents(), props.components);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Getting Started with React Hooks"
+    }), "\n", _jsx(_components.p, {
+      children: "React Hooks have transformed how we write React components. In this post, we'll explore the basics of useState and useEffect."
+    }), "\n", _jsx(_components.h2, {
+      children: "The useState Hook"
+    }), "\n", _jsx(_components.p, {
+      children: "The useState hook lets you add state to functional components:"
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        className: "language-jsx",
+        children: "import { useState } from 'react';\n\nfunction Counter() {\n  const [count, setCount] = useState(0);\n  \n  return (\n    <div>\n      <p>You clicked {count} times</p>\n      <button onClick={() => setCount(count + 1)}>\n        Click me\n      </button>\n    </div>\n  );\n}\n"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "The useEffect Hook"
+    }), "\n", _jsx(_components.p, {
+      children: "The useEffect hook handles side effects in your components:"
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        className: "language-jsx",
+        children: "import { useState, useEffect } from 'react';\n\nfunction Example() {\n  const [count, setCount] = useState(0);\n\n  useEffect(() => {\n    document.title = `You clicked ${count} times`;\n  });\n\n  return (\n    <div>\n      <p>You clicked {count} times</p>\n      <button onClick={() => setCount(count + 1)}>\n        Click me\n      </button>\n    </div>\n  );\n}\n"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "Try these hooks in your next project!"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+b:["$","$Ld",null,{"mdxSource":{"compiledSource":"$e","frontmatter":{},"scope":{}}}]
